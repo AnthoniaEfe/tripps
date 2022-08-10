@@ -1,0 +1,28 @@
+{
+  "trips":[
+    {
+      "title": "Trip to the Alps",
+      "price": "100",
+      "id": "1",
+      "loc": "africa"
+    },
+    {
+      "title": "Trip to the America",
+      "price": "200",
+      "id": "2",
+      "loc": "africa"
+    },
+    {
+      "title": "Trip to the Africa",
+      "price": "300",
+      "id": "3",
+      "loc": "africa"
+    },
+    {
+      "title": "Trip to the Asia",
+      "price": "400",
+      "id": "4",
+      "loc": "asia"
+    }
+  ]
+}

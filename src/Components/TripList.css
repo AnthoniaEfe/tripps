@@ -1,0 +1,44 @@
+.trip-list {
+  width: 600px;
+  margin: 60px auto;
+}
+
+.trip-list ul {
+  padding: 0;
+}
+.trip-list li {
+  list-style: none;
+  padding: 10px;
+  border: 1px solid #fff;
+  border-radius: 10px;
+  box-sizing: border-box;
+  box-shadow: 4px 4px 4px #555;
+  margin: 20px;
+  background-color: rgb(232, 230, 230);
+}
+
+.select-trip {
+  display: flex;
+  padding: 10px;
+  gap: 10px;
+  flex-direction: row;
+}
+.select-trip button {
+  flex-grow: 1;
+  padding: 15px;
+  font-size: 24px;
+  text-align: center;
+  align-content: center;
+  border: none;
+  border-radius: 5px;
+  margin: 20px;
+  font-weight: 600;
+  box-shadow: 4px 4px 4px #555;
+}
+
+.select-trip button:hover {
+  background-color: rgb(112, 112, 112);
+  color: white;
+  transform: scale(1.03);
+}
+
